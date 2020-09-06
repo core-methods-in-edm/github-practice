@@ -1,5 +1,7 @@
 # github-practice
 
+Hi today is 2020/9/7.
+
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
