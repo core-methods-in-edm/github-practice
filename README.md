@@ -1,6 +1,6 @@
 # github-practice
 
-Whats uuuuuup bruh.
+Whats uuuuuup bruh？
 
 Practice using Git &amp; Github
 
