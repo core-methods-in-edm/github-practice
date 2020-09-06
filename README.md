@@ -1,6 +1,6 @@
 # github-practice
 
-Whats uuuuuup bruh？
+Hi today is 2020/9/7.
 
 Practice using Git &amp; Github
 
