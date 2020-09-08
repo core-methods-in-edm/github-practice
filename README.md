@@ -1,5 +1,7 @@
 # github-practice
 
+LALALALALALA!
+
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
