@@ -1,5 +1,5 @@
 # github-practice
-
+everthing is hard in the beginning
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
