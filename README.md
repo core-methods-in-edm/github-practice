@@ -1,6 +1,4 @@
 # github-practice
-
-
 Hey all, excited to be here
 Practice using Git &amp; Github
 
