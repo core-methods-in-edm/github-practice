@@ -1,4 +1,5 @@
 # github-practice
+Hi, I'm Danning Fu. Glad to be here.
 
 Practice using Git &amp; Github
 
