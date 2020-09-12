@@ -7,3 +7,4 @@ Practice using Git &amp; Github
 * Make and save a change to the Readme file
 * Commit your change to Git and push back to your version on Github
 * Create a Pull request to send your change to the main branch of the project
+Mahshad is practicing Git and Github in RStudio
