@@ -1,5 +1,6 @@
 # github-practice
 
+9/19/2020 - Happy to join HUDK 4050
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
