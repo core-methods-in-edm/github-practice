@@ -1,0 +1,70 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+---
+# Source Videos
+---
+#https://www.youtube.com/watch?v=gCAwHbmOqCo
+#https://www.youtube.com/watch?v=1QYgccXBtrI
+
+
+
+### Load Libraries
+
+```{r}
+library(ggplot2)
+```
+
+# Plots {.tabset}
+
+## Scatter Plot No Title
+
+```{r}
+d21 <- (iris)
+
+ggplot(iris)
+
+
+d22 <- ggplot(iris, aes(Sepal.Length, Petal.Length))
+  d22 + geom_point()
+
+  
+d23 <- ggplot(iris, aes(Sepal.Length, Petal.Length, color=Species))
+  d24 <- (d23 + geom_point())
+  
+print(d24)
+  
+```
+
+## Scatter Plot with Title
+```{r}
+d24 + labs(title = "My Scatter Plot")
+```
+
+
+## Scatter Plot with Title and Axis Labels
+```{r}
+d24 + labs(title = "My Scatter Plot", x="Sepal Length", y="Petal Length")
+```
+
+
+
+# New Stuff {.tabset}
+
+Talk about it
+
+## 2nd Level Header
+
+Idea
+
+## New Tab Again
+
+Idea 2
+
+
+
+
+
+
